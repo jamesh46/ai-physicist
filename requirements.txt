@@ -1,0 +1,9 @@
+# Core dependencies for physics simulation and data handling
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Optional: For building AI models (not included in core pipeline)
+# torch>=1.9.0
+# tensorflow>=2.6.0
+# scikit-learn>=1.0.0
+# sympy>=1.9.0  # For symbolic regression
